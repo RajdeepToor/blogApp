@@ -1,0 +1,15 @@
+.container{
+  
+  
+   background-color: antiquewhite;
+   border-radius: 15px;
+   
+   display: flex;
+  
+    padding:100px;
+    max-width: fit-content;
+    margin:70px 1px;
+}
+.footerlogo{
+  
+}

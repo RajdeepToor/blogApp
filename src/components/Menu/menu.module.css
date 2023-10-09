@@ -1,0 +1,31 @@
+.container{
+   flex:2;
+   margin-top: 50px;
+
+}
+.menuItems{
+   margin: 20px 0px;
+  
+   gap: 10px
+   ;
+}
+.title{
+   margin-top: 10px;
+   margin-bottom: 10px;
+   display: flex;
+   color: bisque;
+   align-items: center;
+    border-radius: 15px;
+   max-width: fit-content;
+    height: 70px;
+    background-color: brown;
+    gap: 12px;
+    font-weight:700;
+    padding: 20px 20px 20px 20px;
+   
+}
+.description{
+   color: darkslategrey;
+   justify-content: center;
+  
+}

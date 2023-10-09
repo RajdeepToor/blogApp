@@ -1,0 +1,33 @@
+.container{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.social{
+    display: flex;
+    gap: 10px;
+        flex: 1;
+}
+.links{
+    display: flex;
+    gap: 20px;
+    flex:1;
+    align-items: center;
+}
+.logo{
+    flex: 1;
+    text-align: center;
+    padding-right: 100px;
+    border-radius: 10px;
+   
+}
+
+@media screen  and (max-width:768px) {
+.logo{
+    text-align: left;
+    font-size: 24px;
+}
+.social{
+   /* display: none;*/
+}
+}

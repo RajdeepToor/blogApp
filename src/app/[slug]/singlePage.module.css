@@ -1,0 +1,64 @@
+.container{
+
+}
+.infocontainer{
+    display: flex;
+    align-items: center;
+    gap: 45px;
+}
+.textcontainer{
+    flex: 1;
+}
+.uimg{
+width: 50px;
+height: 50px;
+position: relative;
+}
+.title{
+    font-size: 59px;
+    margin-bottom: 49px;
+}
+
+.image{
+    object-fit: cover;
+}
+
+.imgcontainer{
+    flex: 1;
+    height: 300px;
+    position: relative;
+}
+.uinfo{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.avatar{
+    border-radius: 50%;
+    object-fit: cover;
+}
+.utext{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    color:gray
+
+}
+.content{
+    display: flex;
+   
+    gap: 50px
+    ;
+    justify-content: space-between;
+
+}
+.posting{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.desc{
+    font-size: 20px;
+    font: weight 295px; ;
+}
+

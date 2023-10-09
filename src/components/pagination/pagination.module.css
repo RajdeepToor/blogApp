@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+  
+  
+   
+}
+.Button{
+    width: 100px;
+    padding:20px;
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+}

@@ -1,0 +1,10 @@
+.title{
+background-color: brown;
+color: white;
+padding: 10px 20px;
+text-align: center;
+}
+.content{
+    display: flex;
+    gap: 45px;
+}
