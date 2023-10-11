@@ -16,7 +16,7 @@ const Menu = ({ imageSrc, title, description }) => {
           <div className={styles.text}>
             <div className={styles.title}>Car Diaries</div>
             <div className={styles.description}> A lot of the charismatic V8s have worn out over the last 60 years and have been replaced by characterless and dull Hyundai 2 litre diesel units that belch out huge amounts of particulate matter all over the city. The V8s were far from perfect in this regard but must be better than this! Occasionally you get a car with the original engine still thrumming down the road but it is a rarity. 
-My hope for the future is that they get converted to EVs or hydrogen and then get retro-fitted with  sound synthesisers to make them sound like the burbling 8-cylinder motors they once were. Might be a long shot but you've gotta hope. </div>
+My hope for the future is that they get converted to EVs or hydrogen and then get retro-fitted with  sound synthesisers to make them sound like the burbling 8-cylinder motors they once were. Might be a long shot but gotta hope. </div>
           </div>
         </div>
       </div>
