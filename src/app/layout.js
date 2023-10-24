@@ -5,12 +5,14 @@ import AuthProvider from "@/providers/AuthProvider";
 import ThemeProvider from "@/providers/ThemeProvider";
 import { Inter } from "next/font/google";
 import "./globals.css";
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Blog App",
+  title: "Rajdeep Blog App",
   description: "The best blog app!",
 };
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">

@@ -1,26 +1,3 @@
-
-// import Image from 'next/image';
-// import styles from './footer.module.css';
-
-// const Footer = () => {
-//   return (
-//     <footer className={styles.container}>
-//       <div className={styles.footerContent}>
-//         <div className={styles.footerLogo}>
-//          <Image src="/logo.png" alt='' width={300} height={300}/>
-         
-//         </div>
-       
-//         <div className={styles.socialIcons}>
-         
-//         </div>
-//       </div>
-     
-//     </footer>
-//   );
-// };
-
-// export default Footer;
 import Image from "next/image";
 import Link from "next/link";
 import styles from "./footer.module.css";
@@ -30,8 +7,8 @@ const Footer = () => {
     <div className={styles.container}>
       <div className={styles.info}>
         <div className={styles.logo}>
-          <Image src="/logo.png" alt="lama blog" width={50} height={50} />
-          <h1 className={styles.logoText}>Rajdeep-blog</h1>
+          <Image src="/logo.png" alt="rajdeep blog" width={50} height={50} />
+          <h1 className={styles.logoText}>RajdeepBlog</h1>
         </div>
         <p className={styles.desc}>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim
