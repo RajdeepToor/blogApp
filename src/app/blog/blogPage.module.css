@@ -1,10 +1,12 @@
 .title{
-background-color: brown;
-color: white;
-padding: 10px 20px;
-text-align: center;
+  background-color: coral;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-transform: capitalize;
 }
+
 .content{
-    display: flex;
-    gap: 45px;
+  display: flex;
+  gap: 50px;
 }
